@@ -1,0 +1,23 @@
+{
+  "name": "js_pubpack_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arhandreu/js_pubpack_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arhandreu/js_pubpack_node/issues"
+  },
+  "homepage": "https://github.com/arhandreu/js_pubpack_node#readme",
+  "dependencies": {
+    "@arhandreu/js_pubpack": "^1.0.0"
+  }
+}
